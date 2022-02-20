@@ -1,6 +1,4 @@
-from colorama import init, Fore, Back, Style
 import feedparser as feed
-from parso import parse
 import validators
 import streamlit as st
 
