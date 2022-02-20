@@ -2,6 +2,10 @@ from colorama import init, Fore, Back, Style
 import feedparser as feed
 import validators
 
+'''
+Build by halimkun
+'''
+
 def gabu(u):
     print(Fore.GREEN + "Getting all urls from blogger...\n")
     fd = feed.parse(u)
