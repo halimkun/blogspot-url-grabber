@@ -2,7 +2,6 @@ import feedparser as feed
 import validators
 import streamlit as st
 
-# App Function
 def validate_url(p) :
     if not validators.url(p):
         return False
