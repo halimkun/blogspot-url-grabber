@@ -24,6 +24,4 @@ then run the following command.
 python main.py
 ```
 
-## Note
-
-Keep Learning
+***Note : Keep Learning***
