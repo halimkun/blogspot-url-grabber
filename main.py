@@ -3,8 +3,7 @@ import feedparser as feed
 import validators
 
 '''
-Created with love 
-by 
+Created with <3 by 
 @halimkun https://github.com/halimkun
 '''
 
