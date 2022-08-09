@@ -23,3 +23,7 @@ then run the following command.
 ``` python
 python main.py
 ```
+
+## Note
+
+Keep Learning
