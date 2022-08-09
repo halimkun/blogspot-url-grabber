@@ -3,8 +3,9 @@ import feedparser as feed
 import validators
 
 '''
-Build by @halimkun
-https://github.com/halimkun
+Created wityh Love 
+by 
+@halimkun https://github.com/halimkun
 '''
 
 def gabu(u):
