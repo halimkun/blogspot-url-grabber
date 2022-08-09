@@ -2,8 +2,6 @@
 # Blogger Pos Url Grabber
 Tools to retrieve all blogger / blogspot posts. made with **python**. You can try 
 
-you can use it directly from [this url](https://share.streamlit.io/halimkun/blogspot-url-grabber/main/app.py).
-
 ## Requirements
 
 ```
